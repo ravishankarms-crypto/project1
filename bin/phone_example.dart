@@ -10,7 +10,6 @@ static String brandname = "Apple";
 void main()
 {
   phone ph1 = phone();
-
   print("Details of Mobile 1");
   print("Model         :${ph1.model="Iphone 12"}");
   print("Model Year    :${ph1.year=2019}");
